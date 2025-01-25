@@ -41,6 +41,27 @@ For now this is a link so as not to overwhelm this page, I hope to put up a more
 *Preview*  
 <img src="preview/poster_preview.png" alt="Poster preview" width="500"/>
 
+## Initial annotations
+
+[Annotation excel sheet](mod_data_annotated.xlsx)
+
+| gene name | gene biotype | Cell Line |
+| --- | --- | --- |
+| NBPF14 | protein_coding | SW780 |
+| TAF11L5 | protein_coding | SW780 |
+| GUSBP16 | transcribed_pseudogene | SW780 |
+| NAIP | protein_coding | SW780 |
+| LOC112267942 | lncRNA | SW780 |
+| LOC100419985 | pseudogene | SW780 |
+| LOC100419985 | pseudogene | SW780 |
+| ETHE1 | protein_coding | SW780 |
+| SNAR-C3 | snRNA | SW780 |
+| ZNF813 | protein_coding | SW780 |
+| ESF1 | protein_coding | SW780 |
+| RNA45S4 | rRNA | SW780 |
+| DUXAP8 | transcribed_pseudogene | SW780 |
+| REXO1L4P | pseudogene | RT4 |
+
 ## Software and model versions used for analysis
 
 * [Dorado v0.6.0](https://github.com/nanoporetech/dorado)
@@ -49,7 +70,9 @@ For now this is a link so as not to overwhelm this page, I hope to put up a more
 * *6mA modified bases model*: dna_r10.4.1_e8.2_400bps_sup@v4.3.0_6mA>@v2
 * [Modkit v0.3.1](https://github.com/nanoporetech/modkit)
 * *T2T genome*: [T2T-CHM13v2.0](https://github.com/marbl/CHM13?tab=readme-ov-file#t2t-chm13v20-t2t-chm13y)
+* Annotation file used: [JHU RefSeqv110 + Liftoff v5.1](https://github.com/marbl/CHM13?tab=readme-ov-file#gene-annotation)
 
 ## External Links
 
-[Department of Pathology and Moleular Medicine](https://www.otago.ac.nz/wellington/departments/pathologymolecularmedicine), University of Otago, Wellington.
+[Lucy's LinkedIn page](www.linkedin.com/in/lucy-picard-5155b41a9)  
+[Department of Pathology and Moleular Medicine](https://www.otago.ac.nz/wellington/departments/pathologymolecularmedicine), University of Otago, Wellington.  
